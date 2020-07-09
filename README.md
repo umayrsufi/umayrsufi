@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Umayr!
+
+I build relationships between Microsoft technologies (like GitHub!) and communities. 
+
+You can check out what I work on on [twitter](https://twitter.com/umayrsufi) and get connected with me there. 
 
 <!--
 **umayrsufi/umayrsufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
